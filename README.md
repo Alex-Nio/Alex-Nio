@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-- 💻 I'm Alex, a a Frontend Developer from Russia (UTC+3).
+- 💻 I'm Alex, a Frontend Developer from Russia (UTC+3).
 - ⌨️ I'm interesting in UI/UX Development, Open Source and App Development (Web/Mobile).
 
 ### Languages & Tools 🛠
