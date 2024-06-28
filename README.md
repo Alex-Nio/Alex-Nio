@@ -36,6 +36,7 @@
         <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/rust.svg" alt="rust" width="54" height="54"/> </a>
         <a href="https://wordpress.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="54" height="54"/> </a>
         <a href="https://jquery.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="python" width="54" height="54"/></a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
         <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="54" height="54"/> </a>
     </td>
     <td>
