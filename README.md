@@ -7,10 +7,10 @@
 
 ### Languages & Tools 🛠
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nio&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nio&layout=compact)
 
 
-<table style="background-color: white;">
+<table>
   <tr>
     <th>Frontend (Web)</th>
     <th>Design</th>
