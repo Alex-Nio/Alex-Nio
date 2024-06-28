@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nio&layout=compact&theme=dark)
 
 
-<table>
+<table style="background-color: white;">
   <tr>
     <th>Frontend (Web)</th>
     <th>Design</th>
