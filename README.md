@@ -7,7 +7,7 @@
 
 ### Languages & Tools 🛠
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nio&layout=compact&theme=dark)
 
 
 <table>
