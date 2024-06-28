@@ -24,6 +24,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="54" height="54"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="54" height="54"/> </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/nodejs/images/7bd728ca-9a92-4137-9792-dfb1b41b8ce7.svg" alt="nodejs" width="54" height="54"/> </a>
+        <a href="https://www.npmjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/987beb3353368752a99ed803cd67914c60133050/static/i/npm.svg" alt="npm" width="54" height="54"/> </a>
         <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="vuejs" width="54" height="54"/> </a>
         <a href="https://github.com/about" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="54" height="54"/> </a>
         <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="54" height="54"/> </a>
