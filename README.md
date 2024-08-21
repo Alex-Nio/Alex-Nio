@@ -1,5 +1,3 @@
-![Hi there! I'm Alex, a Frontend Developer!](banner.png)
-
 ### Hello there 👋
 
 - 💻 I'm Alex, a Frontend Developer from Russia (UTC+3).
